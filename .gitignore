@@ -1,4 +1,7 @@
 .classpath
 .project
 /node_modules
+.pathless
+.petals
+
 
